@@ -1,4 +1,4 @@
-**Linux Essentials**
+Linux Essentials**
 Entre los beneficios de Linux se encuentran:
 *Confiabilidad
 *Eficiencia y compatibilidad con la mayoria del hardware.
@@ -7,7 +7,7 @@ Entre los beneficios de Linux se encuentran:
 Los directorios *BOOT*, *HOME* y *VAr* se deben encontrar en una particion distinta a root
 
 Hay comandos que tambien son variables de entorno com
-*pwd - $PWD 
+*pwd - $PWD
 
 Tenemos que tener en cuenta que Linux es CS (Case Sensitive).
 
@@ -23,3 +23,4 @@ Igualmente podemos *copiar*, *mover* y *eliminar* archivos y directorios.
 Git nos ayuda a llevar el control de las versiones de código :+1:. Es una de las herramientas más utilizadas para el control de versiones.
 
 Cuenta con varios comando que nos permiten realizar cambios al repositorio en el que estemos trabajando.
+

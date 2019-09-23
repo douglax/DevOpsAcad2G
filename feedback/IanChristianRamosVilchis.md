@@ -28,8 +28,7 @@
       - El equipo proporcionado tuvo algunos fallos y a veces retraso el avance en el curso
 
 ## Git Essentials
-   Considero que este curso introductorio fue bueno ya que de manera general se abordo lo que es un sistema de control de versiones como Git.
-   Se instaló Git para después crear un repositorio en GitHub y aprendí a utilizar comandos como:
+   Considero que este curso introductorio fue bueno ya que se abordo lo que es un sistema de control de versiones como Git, se creo un repositorio en GitHub y aprendí a utilizar comandos como.
      - **git init** *Crea un repositorio Git vacío o reinicializa uno existente*
      - **git status** *Muestra el status del directorio de trabajo*
      - **git add** *Agrega contenidos al índice*
@@ -38,7 +37,7 @@
      - **git clone** *Clona repositorio*
      - **git checkout -b branch_name** *Crea una nueva rama*
 
-* ** Puntos favorables** 
+* **Puntos favorables** 
  1. El ejercicio prático realizado sobre como trabajar con un repositorio en GitHub me ayudo a comprender el funcionamiento de los comandos de una mejor forma.
  2. La explicación fue clara
  3. Gracias a la introducción previa a Linux se comprendió mejor Git

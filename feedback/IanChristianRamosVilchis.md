@@ -30,8 +30,7 @@
 ## Git Essentials
    
    Considero que este curso introductorio fue bueno ya que se abordo lo que es un sistema de control de versiones como Git.
-   Se creo un repositorio en GitHub y aprendí a utilizar comandos como los siguientes
-      - *hola*
+      - [x] git init
 #### **Puntos favorables** 
  1. El ejercicio prático realizado sobre como trabajar con un repositorio en GitHub me ayudo a comprender el funcionamiento de los comandos de una mejor forma.
  2. La explicación fue clara

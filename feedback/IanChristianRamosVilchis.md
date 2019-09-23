@@ -1,7 +1,7 @@
 ## Linux Essentials
    En mi opinión el curso introductorio fue bueno ya que se cubrieron diversos temas.
    Para mi los puntos favorables fueron los siguientes.
-* **Puntos Favorables**
+#### **Puntos Favorables**
  1. Se discutieron conceptos como los siguientes
       - ¿Qué es un sistema operativo?
       - ¿Por qué utilizar Linux?
@@ -21,14 +21,16 @@
      - [x] Ejecución de scripts 
      - [x] Instalación de software
 
-* **Puntos a mejorar**
+#### **Puntos a mejorar**
  1. Velocidad del curso
       - Pienso que el tirmo de las clases a veces es alto y no es posible tomar nota.
  2. Computadoras de trabajo
       - El equipo proporcionado tuvo algunos fallos y a veces retraso el avance en el curso
 
 ## Git Essentials
-   Considero que este curso introductorio fue bueno ya que se abordo lo que es un sistema de control de versiones como Git, se creo un repositorio en GitHub y aprendí a utilizar comandos como.
+   Considero que este curso introductorio fue bueno ya que se abordo lo que es un sistema de control de versiones como Git.
+   Se creo un repositorio en GitHub y aprendí a utilizar comandos como los siguientes.
+
      - **git init** *Crea un repositorio Git vacío o reinicializa uno existente*
      - **git status** *Muestra el status del directorio de trabajo*
      - **git add** *Agrega contenidos al índice*
@@ -37,7 +39,7 @@
      - **git clone** *Clona repositorio*
      - **git checkout -b branch_name** *Crea una nueva rama*
 
-* **Puntos favorables** 
+#### **Puntos favorables** 
  1. El ejercicio prático realizado sobre como trabajar con un repositorio en GitHub me ayudo a comprender el funcionamiento de los comandos de una mejor forma.
  2. La explicación fue clara
  3. Gracias a la introducción previa a Linux se comprendió mejor Git

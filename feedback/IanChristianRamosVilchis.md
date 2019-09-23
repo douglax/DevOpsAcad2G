@@ -33,7 +33,11 @@ Se instaló Git para después crear un repositorio en GitHub y aprendí a utiliz
 - **git init** *Crea un repositorio Git vacío o reinicializa uno existente*
 - **git status** *Muestra el status del directorio de trabajo*
 - **git add** *Agrega contenidos al índice*
-  
+- **git commit** *Graba cambios al repositorio*
+- **git diff** *Muestra cambios entre los commits y los árboles de trabajo actuales*
+- **git clone** *Clona repositorio*
+- **git checkout -b branch_name** *Crea una nueva rama*
+
 #### **Puntos favorables** 
  1. El ejercicio prático realizado sobre como trabajar con un repositorio en GitHub me ayudo a comprender el funcionamiento de los comandos de una mejor forma.
  2. La explicación fue clara
